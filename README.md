@@ -6,4 +6,4 @@ clona, sen `dotnet run`
 
 Efter du skrivit i ditt namn kan du chatta med andra som ev. är anslutna.
 
-[use](README.md)
+![use](image.png)
